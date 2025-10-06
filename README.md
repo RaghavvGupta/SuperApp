@@ -28,6 +28,10 @@ SuperApp is an open-source social platform designed to unite diverse forms of co
     ```
     npm start
     ```
+## UI
+<img width="303" height="636" alt="Image" src="https://github.com/user-attachments/assets/5e97dd00-2f1c-40ab-907d-82fd902e237e" />
+
+<img width="254" height="547" alt="Image" src="https://github.com/user-attachments/assets/96be8834-a81d-4953-954b-ecb4b7b9c1ce" />
 
 ## File Structure
 
