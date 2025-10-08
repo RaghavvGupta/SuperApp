@@ -8,7 +8,7 @@
 
 **Unite all your content in one intuitive experience**
 
-[Features](#-features) • [Getting Started](#-getting-started) • [Contributing](#-contributing) • [Roadmap](#-roadmap)
+[Features](#-features) • [Getting Started](#-getting-started)  • [Roadmap](#-roadmap)
 
 </div>
 
@@ -194,6 +194,5 @@ Thanks to all the amazing people who have contributed to SuperApp! 🎉
 
 **Made with ❤️ by the SuperApp community**
 
-[⬆ Back to Top](#-superapp--multi-platform-content-navigator)
 
 </div>
