@@ -151,39 +151,6 @@ We're constantly working to improve SuperApp. Here's what's coming next:
 
 ---
 
-## 🤝 Contributing
-
-We enthusiastically welcome contributions from developers of all skill levels! Whether you're fixing bugs, adding features, or improving documentation, your help is appreciated.
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create your feature branch:**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes:**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch:**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- 📝 Follow the existing code style and conventions
-- ✅ Write clear, descriptive commit messages
-- 🧪 Test your changes thoroughly before submitting
-- 📖 Update documentation for any new features
-- 🔗 Link related issues in your PR description using `Fixes #<issue_number>`
-
-### First-Time Contributors
-
-New to open source? No problem! We have issues labeled `good-first-issue` and `first-timers-only` that are perfect for getting started. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ### Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment. Please be respectful and considerate in all interactions.
