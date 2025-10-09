@@ -153,7 +153,7 @@ We're constantly working to improve SuperApp. Here's what's coming next:
 
 ### Code of Conduct
 
-We are committed to providing a welcoming and inclusive environment. Please be respectful and considerate in all interactions.
+We are committed to providing a welcoming and inclusive environment for everyone. All participants are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
@@ -169,7 +169,7 @@ We'd love to hear from you! Here's how you can reach out:
 
 - 🐛 **Found a bug?** [Open an issue](https://github.com/RaghavvGupta/superapp/issues)
 - 💡 **Have an idea?** [Start a discussion](https://github.com/RaghavvGupta/superapp/discussions)
-- 📧 **Need help?** Check our [FAQ](https://github.com/RaghavvGupta/superapp/wiki/FAQ) or ask in discussions
+- 📧 **Need help?** Ask in [discussions](https://github.com/RaghavvGupta/superapp/discussions)
 
 ---
 
