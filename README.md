@@ -57,40 +57,33 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-
-Before you begin, ensure you have the following installed:
-- **Node.js** (version 14.x or higher)
-- **npm** (version 6.x or higher)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/RaghavvGupta/superapp.git
-   cd superapp
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   npm start
-   ```
-
-4. **Open your browser:**
-   Navigate to `http://localhost:3000` to view the application
-
-### Build for Production
-
-To create an optimized production build:
-```bash
-npm run build
-```
+Ensure you have the following installed:
+- **Node.js** (v16+)
+- **npm** (v8+)
+- **MySQL** (for backend database setup)
 
 ---
+
+### 🖥️ Frontend Setup
+
+```bash
+git clone https://github.com/RaghavvGupta/superapp.git
+cd superapp
+cd frontend
+npm install
+npm start
+```
+Then open http://localhost:3000 in your browser.
+
+### ⚙️ Backend Setup
+```bash
+cd backend-api
+npm install
+cp .env.example .env
+npm run dev 
+```
+Check your backend health at:
+http://localhost:3000/api/health
 
 ## 📸 UI Showcase
 
