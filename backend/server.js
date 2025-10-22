@@ -1,18 +1,14 @@
-const express = require('express');
-const dotenv = require('dotenv');
+const express = require("express");
+const dotenv = require("dotenv");
+const postRoutes = require("./routes/posts");
 
-// Load environment variables
 dotenv.config();
-
 const app = express();
+app.use(express.json());
+
+app.use("/posts", postRoutes);
+
+app.get("/", (req, res) => res.send("API running..."));
+
 const PORT = process.env.PORT || 3000;
-
-// Sample route
-app.get('/api/health', (req, res) => {
-  res.json({ status: "OK" });
-});
-
-// Start server
-app.listen(PORT, () => {
-  console.log(`Server running on port http://localhost:${PORT}`);
-});
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
